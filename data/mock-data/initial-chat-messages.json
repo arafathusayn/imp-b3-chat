@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "text": "Hello! How can I help you today?",
+    "sender": "bot",
+    "name": "AI Assistant",
+    "timestamp": "2023-06-15T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "text": "Hi! I have a question about my account.",
+    "sender": "user",
+    "name": "John Doe",
+    "timestamp": "2023-06-15T09:02:00Z",
+    "delivered": true,
+    "seen": true
+  },
+  {
+    "id": 3,
+    "text": "Sure, I'd be happy to help. What's your question?",
+    "sender": "bot",
+    "name": "AI Assistant",
+    "timestamp": "2023-06-15T09:03:00Z"
+  }
+]
